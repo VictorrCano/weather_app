@@ -1,5 +1,5 @@
-#Weather Application
-
+# Weather Application
+This is my React To-Do list Web Application for GreenChoice
 
 Project Description:
 
